@@ -1,0 +1,214 @@
+{
+  
+  "Like": {
+    "price": "100000",
+    "emoji": "<a:djlike:746606857895804988>",
+    "type": "Normal",
+    "description": "Dj is here!"
+  },
+  
+  "Music": {
+    "price": "110000",
+    "emoji": "<a:djmusic:746606693923684352>",
+    "type": "Normal",
+    "description": "Feels like Dj?"
+  },
+  
+  "PepeToilet": {
+    "price": "120000",
+    "emoji": "<a:pepepoop:790154899642908702>",
+    "type": "Normal",
+    "description": "Just pooping around XD"
+  },
+  
+  "PepeRickrolling": {
+    "price": "120000",
+    "emoji": "<a:pepe_rickrolled:800019355567521802>",
+    "type": "Normal",
+    "description": "Damn you will be rick rolling people lol"
+  },
+  
+  "PepeGo": {
+    "price": "120000",
+    "emoji": "<a:pepego:790154084451614720>",
+    "type": "Normal",
+    "description": "Life is the race so run as fast you can!"
+  },
+  
+  "BlackFlame": {
+    "price": "130000",
+    "emoji": "<a:Foc1:746607549691854990>",
+    "type": "Normal",
+    "description": "Feels like Amaterasu"
+  },
+  
+  "RedFlame": {
+    "price": "130000",
+    "emoji": "<a:darkredflame:746607406309703690>",
+    "type": "Normal",
+    "description": "Fire of blood"
+  },
+  
+  "WhiteFlame": {
+    "price": "130000",
+    "emoji": "<a:whitefire:746607096027676782>",
+    "type": "Normal",
+    "description": "How its flame is white O_O"
+  },
+  
+  "BlueFlame": {
+    "price": "130000",
+    "emoji": "<a:iblueflames:746607283122995211> ",
+    "type": "Normal",
+    "description": "Feels like burning sky"
+  },
+  
+  "YellowFlame": {
+    "price": "130000",
+    "emoji": "<a:flame1:710165175415734452>",
+    "type": "Normal",
+    "description": "Poop is burning rightnow lol"
+  },
+  
+  "GreenFlame": {
+    "price": "130000",
+    "emoji": "<a:greenflames:746607187203325972>",
+    "type": "Normal",
+    "description": "Dont burn the nature"
+  },
+  
+  "Diamond": {
+    "price": "150000",
+    "emoji": "<a:diamond1:746605327579086948>",
+    "type": "Normal",
+    "description": "This is shiny and valuable"
+  },
+  
+  "Heart": {
+    "price": "170000",
+    "emoji": "<a:rainbowdil:746287201339310140>",
+    "type": "Normal",
+    "description": "Flex your wonderful heart to other"
+  },
+  
+  "Blob": {
+    "price": "200000",
+    "emoji": "<a:Blob:710165249499594824>",
+    "type": "Custom",
+    "description": "Blob is cute :)"
+  },
+  
+  "Pog": {
+    "price": "200000",
+    "emoji": "<a:Pog:856759054586871849>",
+    "type": "Custom",
+    "description": "Pogggggggggggggggggggg"
+  },
+  
+  "BlobDance": {
+    "price": "200000",
+    "emoji": "<a:blobdance:809049423757180979>",
+    "type": "Custom",
+    "description": "Dance with blob"
+  },
+  
+  "PepePray": {
+    "price": "200000",
+    "emoji": "<a:PepePray:853897646044610600>",
+    "type": "Custom",
+    "description": "Pepe is praying for happiness"
+  },
+  
+  "Subaaaru": {
+    "price": "200000",
+    "emoji": "<a:Subaaaru:853125083647836170>",
+    "type": "Custom",
+    "description": "Idk what he is screamming"
+  },
+  
+  "BlueCrown": {
+    "price": "200000",
+    "emoji": "<a:bluecrown:852408641344372776>",
+    "type": "Custom",
+    "description": "Crown of peace"
+  },
+  
+  "Pikachu": {
+    "price": "200000",
+    "emoji": "<a:pikaCool:821426955517689896>",
+    "type": "Custom",
+    "description": "Just be cool like pikachu"
+  },
+  
+  "Naughty": {
+    "price": "200000",
+    "emoji": "<a:naughty:809292447891849217>",
+    "type": "Custom",
+    "description": "Dont be naughty :)"
+  },
+  
+  "VIP": {
+    "price": "200000",
+    "emoji": "<a:VIP:783715351396483094>",
+    "type": "Custom",
+    "description": "You became the vip person lol"
+  },
+  
+  "NarutoNo": {
+    "price": "250000",
+    "emoji": "<a:NarutoNo:888764276653850684>",
+    "type": "Custom",
+    "description": "Nooooo!"
+  },
+  
+  
+  "NarutoLove": {
+    "price": "250000",
+    "emoji": "<a:NarutoLove:887572145855672351>",
+    "type": "Custom",
+    "description": "Naruto likes you so much :)"
+  },
+  
+  "NarutoRun": {
+    "price": "250000",
+    "emoji": "<a:NarutoRUN:888765004789194752>",
+    "type": "Custom",
+    "description": "Do you like to run like naruto?"
+  },
+  
+  "PepeAngry": {
+    "price": "250000",
+    "emoji": "<a:pepeangry:813060143977201675>",
+    "type": "Custom",
+    "description": "Pepe is sad and angry:("
+  },
+  
+  "RickRolled": {
+    "price": "250000",
+    "emoji": "<a:rickrolled:791150968607080449>",
+    "type": "Custom",
+    "description": "Get rick rolled lol"
+  },
+  
+  "GoldCrown": {
+    "price": "400000",
+    "emoji": "<a:GoldCrown:868741708748320788>",
+    "type": "Custom",
+    "description": "Crown for the rich person"
+  },
+  
+  "Star": {
+    "price": "1000000",
+    "emoji": "<a:rising_star:811479447979032606>",
+    "type": "Legendary",
+    "description": "You became like rising star. You are one of the most richest person O_O"
+  },
+  
+  "HappyBlob": {
+    "price": "1000000",
+    "emoji": "<a:HappyBlob:856758750886100993>",
+    "type": "Legendary",
+    "description": "This the most happy blob. Join his dance buy equiping it."
+  }
+  
+}

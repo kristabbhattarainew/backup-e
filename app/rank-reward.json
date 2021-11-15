@@ -1,0 +1,41 @@
+{
+  "beg": {
+    "starts": "100",
+    "reward": "10"
+  },
+  
+  "fish": {
+    "starts": "100",
+    "reward": "20"
+  },
+  
+  "scout": {
+    "starts": "100",
+    "reward": "10"
+  },
+  
+  "rps": {
+    "starts": "100",
+    "reward": "10"
+  },
+  
+  "hunt": {
+    "starts": "100",
+    "reward": "20"
+  },
+  
+  "mine": {
+    "starts": "100",
+    "reward": "10"
+  },
+  
+  "work": {
+    "starts": "200",
+    "reward": "200"
+  },
+  
+  "daily": {
+    "starts": "200",
+    "reward": "200"
+  }
+}
